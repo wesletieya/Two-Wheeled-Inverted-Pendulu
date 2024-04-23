@@ -15,6 +15,7 @@ The electrical wiring of the robot is as such :
 
 
 This is a picture of the prototype we created :
+<img src="[https://example.com/image.jpg](https://github.com/wesletieya/Two-Wheeled-Inverted-Pendulum/assets/129344878/dbdad588-1cb8-43a3-b364-e7d78c1796a9)" alt="Image Description" width="200" height="150">
 
 ![IMG_4496](https://github.com/wesletieya/Two-Wheeled-Inverted-Pendulum/assets/129344878/dbdad588-1cb8-43a3-b364-e7d78c1796a9)
 
