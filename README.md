@@ -1,1 +1,1 @@
-# Two-Wheeled-Inverted-Pendulu
+# Two-Wheeled-Inverted-Pendulum
