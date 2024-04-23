@@ -26,3 +26,7 @@ Below is a a bloc diagram detailing the overall fuction of the regulator :
 
 We implemented the same regulator in LabView in order to visualise in real-time the variation of the error in the system , we also created a LabvView graphical interface for better visualization.
 
+[![Video 1](https://drive.google.com/uc?export=download&id=11g-AhXJUl01V_q6hE1Y7ndEF084dqkYn)](https://drive.google.com/file/d/11g-AhXJUl01V_q6hE1Y7ndEF084dqkYn/view?usp=sharing)
+
+[![Video 2](https://drive.google.com/uc?export=download&id=1S9iOvvN8ZOjy2knmWZVoSCE7JvCrv4wD)](https://drive.google.com/file/d/1S9iOvvN8ZOjy2knmWZVoSCE7JvCrv4wD/view?usp=sharing)
+
